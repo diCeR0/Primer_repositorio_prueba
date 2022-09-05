@@ -1,5 +1,10 @@
 body{
-    font-size: 100px;
-    color:chartreuse;
+    text-align: center;
+}
+
+#contenedor{
+    margin-left: 10%;
+    width: 80%;
+    border: 5px solid black;
     text-align: center;
 }
