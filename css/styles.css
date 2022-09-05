@@ -4,6 +4,13 @@ body{
     color:chartreuse;
     text-align: center;
 }
+
+#contenedor{
+    margin-left: 10%;
+    width: 80%;
+    border: 5px solid black;
+    text-align: center;
+}
 #cabecera_master{
     background-color: tomato;
     font-size: 80px;
