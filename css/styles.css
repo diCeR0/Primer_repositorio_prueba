@@ -3,3 +3,8 @@ body{
     color:chartreuse;
     text-align: center;
 }
+#cabecera_master{
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: tomato;
+}
