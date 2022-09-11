@@ -4,6 +4,12 @@ body{
     color:gray;
     text-align: center;
 }
+span{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: tomato;
+}
 
 #contenedor{
     margin-left: 10%;
@@ -12,8 +18,8 @@ body{
     text-align: center;
 }
 #cabecera_master{
-    background-color: tomato;
-    font-size: 80px;
+    background-color: #08419c;
+    font-size: 70px;
     font-family: 'Times New Roman', Times, serif;
-    color: whitesmoke;
+    color: rgb(189, 187, 187);
 }
