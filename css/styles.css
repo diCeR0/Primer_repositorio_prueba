@@ -10,12 +10,27 @@ span{
     text-decoration: underline;
     color: tomato;
 }
+h1{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: end;
+    padding-right: 45px;
+    font-size: 40px;
+}
+p{
+    color: gray;
+    text-align: end;
+}
 
 #contenedor{
     margin-left: 10%;
     width: 80%;
     border: 5px solid black;
     text-align: center;
+    background-image: url(../img/Iron\ Man\ bullet.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: top;
 }
 #cabecera_master{
     background-color: #08419c;
